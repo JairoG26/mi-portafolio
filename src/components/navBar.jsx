@@ -12,7 +12,7 @@ export const NavBar = () => {
     <header className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <div className="text-2xl font-bold text-blue-600">Portfolio</div>
-        <nav className="space-x-6">
+        <nav className="space-x-5">
           {sections.map((section) => (
             <Link
               key={section}
