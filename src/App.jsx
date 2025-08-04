@@ -1,6 +1,5 @@
 import React from 'react';
-import { Hero } from './components/hero.jsx';
-import { NavBar } from './components/navBar'
+import { NavBar } from './components/navBar.jsx'
 import { About } from './components/about.jsx';
 import { Projects } from './components/projects.jsx';
 import { Skills } from './components/skills.jsx';
