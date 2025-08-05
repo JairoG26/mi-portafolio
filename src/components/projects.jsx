@@ -6,7 +6,7 @@ const data = [
     description: "ETL and visualizations of university schedules.",
     technologies: ["Python", "PostgreSQL", "Power BI"],
     image: "/image-project-1.png",
-    demoLink: "#",
+    demoLink: "/Tablero_proyecto.pdf",
     codeLink: "https://github.com/JairoG26/Dashboard-Horarios.git"
   }
 ];
