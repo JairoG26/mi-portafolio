@@ -8,6 +8,22 @@ const data = [
     image: "/image-project-1.png",
     demoLink: "/Tablero_proyecto.pdf",
     codeLink: "https://github.com/JairoG26/Dashboard-Horarios.git"
+  },
+  {
+    title: "Personal Portfolio Website",
+    description: "A personal website to showcase my projects and skills.",
+    technologies: ["React", "Tailwind CSS", "Vercel"],
+    image: "/image-project-2.png",
+    demoLink: "https://mi-portafolio-theta-one.vercel.app/",
+    codeLink: "https://github.com/JairoG26/mi-portafolio.git"
+  },
+  {
+    title: "Task Manager Website",
+    description: "A web application to manage tasks and projects.",
+    technologies: ["React", "Node.js", "PostgreSQL", "Express", "Tailwind CSS"],
+    image: "/image-project-3.png",
+    demoLink: "https://task-manager-j26.netlify.app/",
+    codeLink: "https://github.com/JairoG26/task-manager.git"
   }
 ];
 

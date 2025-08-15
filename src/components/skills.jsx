@@ -10,6 +10,7 @@ const skills = [
   { name: "Tailwind CSS", logo: "https://cdn.simpleicons.org/tailwindcss/06B6D4" },
   { name: "PostgreSQL", logo: "https://cdn.simpleicons.org/postgresql/4169E1" },
   { name: "Git", logo: "https://cdn.simpleicons.org/git/F05032" },
+  { name: "Node.js", logo: "https://cdn.simpleicons.org/node.js/339933" },
 ];
 
 export const Skills = () => {
