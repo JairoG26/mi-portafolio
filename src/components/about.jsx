@@ -17,9 +17,13 @@ export const About = () => {
 
         {/* Texto */}
         <div className="flex-1">
-          <h2 className="text-3xl font-bold mb-4 border-b-4 border-blue-600 inline-block">
-            About Me
-          </h2>
+          <h1 className="text-4xl font-extrabold mb-1">
+            Jairo Garavito
+          </h1>
+
+          <p className="text-blue-600 dark:text-blue-600 font-medium mb-4">
+            Systems & Computer Engineer · Junior Developer · Data Analytics
+          </p>
           <p className="text-lg leading-relaxed">
             Systems and Computer Engineer with hands-on experience in cloud-based web development, 
             backend architecture, and data analytics. I have worked with technologies such as 
@@ -44,7 +48,7 @@ export const About = () => {
             <a
               href="/resume.pdf" 
               download
-              className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition"
+              className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition"
             >
               Download CV
             </a>
