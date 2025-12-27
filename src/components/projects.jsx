@@ -24,6 +24,14 @@ const data = [
     image: "/image-project-3.png",
     demoLink: "https://task-manager-j26.netlify.app/",
     codeLink: "https://github.com/JairoG26/task-manager.git"
+  },
+  {
+    title: "Colombia Bills Explorer",
+    description: "website for reviewing bills in Colombia obtained through web scraping.",
+    technologies: ["React", "Python", "FastAPI", "PostgreSQL", "Tailwind CSS", "Web Scraping"],
+    image: "/image-project-4.png",
+    demoLink: "https://github.com/JairoG26/colombia-bills-explorer",
+    codeLink: "https://github.com/JairoG26/colombia-bills-explorer.git"
   }
 ];
 

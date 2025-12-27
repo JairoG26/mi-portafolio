@@ -11,6 +11,8 @@ const skills = [
   { name: "PostgreSQL", logo: "https://cdn.simpleicons.org/postgresql/4169E1" },
   { name: "Git", logo: "https://cdn.simpleicons.org/git/F05032" },
   { name: "Node.js", logo: "https://cdn.simpleicons.org/node.js/339933" },
+  { name:"Google Cloud Platform", logo: "https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" },
+  { name: "Vue.js", logo: "https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" },
 ];
 
 export const Skills = () => {

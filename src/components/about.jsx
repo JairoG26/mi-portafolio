@@ -21,10 +21,22 @@ export const About = () => {
             About Me
           </h2>
           <p className="text-lg leading-relaxed">
-            Systems Engineer with a solid background in programming, web development (frontend and backend), and data analysis. 
+            Systems and Computer Engineer with hands-on experience in cloud-based web development, 
+            backend architecture, and data analytics. I have worked with technologies such as 
+            Google Cloud Platform, Node.js, Vue.js, React, Flask, and Power BI to build scalable 
+            and data-driven solutions.
           </p>
+
           <p className="mt-4 text-lg leading-relaxed">
-            I am passionate about data analytics and creating useful, elegant, and efficient solutions. I enjoy working in teams and building impactful projects.
+            I am particularly interested in data analytics, automation, and decision-support systems, 
+            where I enjoy transforming data into meaningful insights and efficient tools. My experience 
+            as a teaching assistant strengthened my skills in technical communication, problem-solving, 
+            and teamwork.
+          </p>
+
+          <p className="mt-4 text-lg leading-relaxed">
+            I am motivated by challenges that combine technology, data, and real-world impact, and I 
+            enjoy collaborating on projects that prioritize clarity, efficiency, and quality.
           </p>
 
           {/* Botón de CV */}
