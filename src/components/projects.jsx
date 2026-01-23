@@ -26,12 +26,12 @@ const data = [
     codeLink: "https://github.com/JairoG26/task-manager.git"
   },
   {
-    title: "Colombia Bills Explorer",
-    description: "website for reviewing bills in Colombia obtained through web scraping.",
-    technologies: ["React", "Python", "FastAPI", "PostgreSQL", "Tailwind CSS", "Web Scraping"],
+    title: "AI-Powered-Support-Co-Pilot",
+    description: "A web application that uses AI to proccess and analyze customer support tickets.",
+    technologies: ["React", "Python", "FastAPI", "PostgreSQL", "Supabase", "Tailwind CSS", "n8n", "AI", "langChain"],
     image: "/image-project-4.png",
-    demoLink: "https://github.com/JairoG26/colombia-bills-explorer",
-    codeLink: "https://github.com/JairoG26/colombia-bills-explorer.git"
+    demoLink: "https://ai-powered-support-co-pilot.netlify.app/",
+    codeLink: "https://github.com/JairoG26/AI-Powered-Support-Co-Pilot.git"
   }
 ];
 
